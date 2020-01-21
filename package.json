@@ -1,8 +1,13 @@
 {
-  "name": "nuxt-domain",
+  "name": "nuxt-domains",
   "version": "0.0.0",
-  "description": "A module to handle multi-domain nuxt app",
-  "repository": "dansmaculotte/nuxt-domain",
+  "description": "Module for Nuxt.js to handle multiple domains",
+  "keywords": [
+    "nuxt",
+    "nuxt-module",
+    "domains"
+  ],
+  "repository": "dansmaculotte/nuxt-domains",
   "license": "MIT",
   "contributors": [
     {
