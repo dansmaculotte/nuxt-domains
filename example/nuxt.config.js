@@ -8,6 +8,13 @@ module.exports = {
     resourceHints: false
   },
   modules: [
-    { handler: require('../') }
+    {
+      handler: require('../'),
+      options: {
+        domains: [
+          [ 'api.localhost', { test: true } ],
+        ],
+      }
+    }
   ]
 }
