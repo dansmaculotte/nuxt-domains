@@ -11,9 +11,7 @@ module.exports = {
     {
       handler: require('../'),
       options: {
-        domains: [
-          [ 'api.localhost', { test: true } ],
-        ],
+        domains: [['api.localhost', { test: true }]]
       }
     }
   ]

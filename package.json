@@ -34,9 +34,12 @@
     "codecov": "latest",
     "consola": "latest",
     "eslint": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-prettier": "latest",
     "husky": "latest",
     "jest": "latest",
     "nuxt-edge": "latest",
+    "prettier": "latest",
     "standard-version": "latest"
   },
   "publishConfig": {

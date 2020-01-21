@@ -1,7 +1,5 @@
 <template>
-  <div>
-    Works! ({{ domain }})
-  </div>
+  <div>Works! ({{ domain }})</div>
 </template>
 
 <script>
